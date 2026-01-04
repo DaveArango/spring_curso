@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Nevera",
+    "price": 100000
+  },
+  {
+    "id": 2,
+    "name": "Microondas",
+    "price": 1875
+  },
+  {
+    "id": 3,
+    "name": "Horno",
+    "price": 3750
+  },
+  {
+    "id": 4,
+    "name": "Estufa",
+    "price": 31250
+  }
+]

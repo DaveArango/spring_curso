@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "NotEmpty.product.name",
+      "type": "java.lang.String",
+      "description": "Description for NotEmpty.product.name."
+    },
+    {
+      "name": "NotBlank.product.description",
+      "type": "java.lang.String",
+      "description": "Description for NotBlank.product.description."
+    },
+    {
+      "name": "NotNull.product.price",
+      "type": "java.lang.String",
+      "description": "Description for NotNull.product.price."
+    },
+    {
+      "name": "Min.product.price",
+      "type": "java.lang.String",
+      "description": "Description for Min.product.price."
+    },
+    {
+      "name": "IsRequired.product.description",
+      "type": "java.lang.String",
+      "description": "Description for IsRequired.product.description."
+    }
+  ] }

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-di/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-web/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-error/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-horario/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-difactura/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jpa-relationship/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

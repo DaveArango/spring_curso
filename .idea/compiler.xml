@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for springboot-jpa-relationship" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+        </processorPath>
+        <module name="springboot-interceptor" />
+        <module name="springboot-jpa" />
+        <module name="springboot-jpa-relationship" />
+        <module name="springboot-horario" />
+        <module name="springboot-error" />
+        <module name="springboot-web" />
+        <module name="springboot-di" />
+        <module name="springboot-difactura" />
+        <module name="springboot-aop" />
+        <module name="springboot-crud" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-aop" options="-parameters" />
+      <module name="springboot-crud" options="-parameters" />
+      <module name="springboot-di" options="-parameters" />
+      <module name="springboot-difactura" options="-parameters" />
+      <module name="springboot-error" options="-parameters" />
+      <module name="springboot-horario" options="-parameters" />
+      <module name="springboot-interceptor" options="-parameters" />
+      <module name="springboot-jpa" options="-parameters" />
+      <module name="springboot-jpa-relationship" options="-parameters" />
+      <module name="springboot-web" options="-parameters" />
+    </option>
+  </component>
+</project>
